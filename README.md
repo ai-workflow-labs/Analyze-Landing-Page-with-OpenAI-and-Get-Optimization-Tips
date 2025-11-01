@@ -59,15 +59,6 @@ The AI agent provides **actionable insights and fixes** to help you turn visitor
 
 ---
 
-## 🪄 Example Output
-
-| Screenshot | Description |
-|-------------|--------------|
-| `Screenshot_20250307_14.33.52.png` | Example of the AI’s analysis summary |
-| `Screenshot_20250307_14.34.01.png` | Example of detailed CRO tips |
-
----
-
 ## 🧩 Setup Guide
 
 ### Prerequisites
